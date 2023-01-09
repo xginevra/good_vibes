@@ -1,1 +1,1 @@
-## What is Psorasis?
+## What is Psoriasis?
