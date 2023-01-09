@@ -19,7 +19,4 @@ Psoriasis affects the entire life of a person. Rejection from other people who d
 and the whole process of seeing doctors, not to know if it ends someday can lead to 
 depressions and even suicide.
 
-## What one can do!
-
-
-
+## What one can do
