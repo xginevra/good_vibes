@@ -5,6 +5,8 @@ discover reddish and scaly spots firstly on their elbows and knees. As the disea
 The involved areas are itchy and tend to bleed after scratching. Also, psoriasis can affect the joints and eyes, but the most
 common type is the plaque type which appears on the skin. There is no cure for psoriasis, and what's more, it goes down and up in episodes.
 
+[This is what it looks like](psoriasis-arms.jpeg)
+
 ## Living with Psoriasis - is it easy?
 
 There is more than just the itchy skin with plaque on it, and it is not easy to live with it at all.
