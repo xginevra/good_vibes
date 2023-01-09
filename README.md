@@ -4,6 +4,7 @@ Psoriasis is a chronic, proliferative and inflammatory disease which mostly affe
 discover reddish and scaly spots firstly on their elbows and knees. As the disease develops, the spots grow and spread all over the body. 
 The involved areas are itchy and tend to bleed after scratching. Also, psoriasis can affect the joints and eyes, but the most
 common type is the plaque type which appears on the skin. There is no cure for psoriasis, and what's more, it goes down and up in episodes.
+It is important to mention that the disease is not contagious. It is 
 
 ![This is what it looks like](psoriasis-arms.jpeg)
 
