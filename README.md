@@ -20,6 +20,6 @@ a vacuum or something else, but for the person themselves it can be a range from
 Depressing is the key word for the next topic which comes up when talking about psoriasis - depression.
 Psoriasis affects the entire life of a person. Rejection from other people who don't know the disease, the decreased life quality
 and the whole process of seeing doctors, not to know if it ends someday can lead to 
-depressions and even suicide.
+depressions and other mental diseases.
 
 ## What one can do
