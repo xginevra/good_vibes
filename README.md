@@ -1,5 +1,5 @@
 ## What is Psoriasis?
-
+hi 
 Psoriasis is a chronic, proliferative and inflammatory disease which mostly affects the skin. Once it appears, most people 
 discover reddish and scaly spots firstly on their elbows and knees. As the disease develops, the spots grow and spread all over the body. 
 The involved areas are itchy and tend to bleed after scratching. Also, psoriasis can affect the joints and eyes, but the most
