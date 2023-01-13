@@ -31,3 +31,9 @@ depressions and other mental diseases.
 
 ## What one can do
 
+Since psoriasis is a disease which is not to be cured, it will last a life long and the patients must be aware of possible factors which trigger flare-ups and which kind of things are known to ease the symptoms. Most common flare-up-triggers are:
++ Stress
++ Alcohol
++ Smoking
++ Dry, cold weather.
+The most common thing which can ease the symptoms is the sun. 
