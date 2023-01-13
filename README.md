@@ -6,8 +6,7 @@ Psoriasis is a chronic, proliferative and inflammatory disease which mostly affe
 discover reddish and scaly spots firstly on their elbows and knees. As the disease develops, the spots grow and spread all over the body. 
 The involved areas are itchy and tend to bleed after scratching. Also, psoriasis can affect the joints and eyes, but the most
 common type is the plaque type which appears on the skin. There is no cure for psoriasis, and what's more, it goes down and up in episodes.
-It is important to mention that the disease is not contagious. It is considered as an autoimmune disease. For better understanding the disease
-and to clearly describe what happens to the body, i will now quote the [National Library of Medicine:](https://www.ncbi.nlm.nih.gov/books/NBK448194/#article-27961.s2)
+It is important to mention that the disease is not contagious; it is considered as an autoimmune disease which means that it is genetic. To clearly describe what happens to the body, i will now quote the [National Library of Medicine:](https://www.ncbi.nlm.nih.gov/books/NBK448194/#article-27961.s2)
 
 >The pathophysiology of psoriasis involves infiltration of the skin by activated T cells which stimulate the proliferation of keratinocytes. This dysregulation in keratinocyte turnover results in the formation of thick plaques. Other associated features include epidermal hyperplasia and parakeratosis. In addition, the epidermal cells fail to secrete lipids which results in flaky and scaly skin, which is typical of psoriasis.
 
@@ -35,7 +34,7 @@ depressions and other mental diseases.
 ## What one can do
 
 Since psoriasis is a disease which can not be cured, it will last the entire life. All a patient for him- or herself can do is to keep their skin moisturized 
-with appropriate skin cream and to enjoy the hours of the day the sun comes out. Also, a healthy lifestyle can be a great advantage. Exercising on a regular basis as well as consulting a mental health counsellor are most helpful when it comes to healing the skin and the body. 
+with appropriate skin cream and to use the hours of the day on which the sun comes out to kind of absorb the sun's rays. Also, a healthy lifestyle can be a great advantage. Exercising on a regular basis, having a varied diet as well as consulting a mental health counsellor are helpful when it comes to healing the skin, the mind, and the body. 
 
 In severe cases, there is also the possibility to do phototherapy or even to take certain systemic drugs which supress the immune system of the patient. This kind of therapy is considered to take place only when the other known methods do not bring the desired outcome; to ease the suffering of the patient. 
 
@@ -49,6 +48,6 @@ But also, there is to mention that everyone has their own triggers which are to 
 
 ## Modern technical devices and how they can actually help
 
-In order to find triggers which are causing flare-ups or even providing relief, one must try out different things like eating certain things or avoiding them and notice if the symptoms are getting better, worse or are not affected. This process takes a lot of time, considering it must be done for almost everything within the life of one. But there are possibilities to ease the whole process: Apps like Psoriasis Monitor from RPM Healthcare 
+There are several apps on the Google Play store which provide the opportunity to track all of the symptoms one notices, from itchy skin to pain in certain joints, but also which stress level one had the other day and if unexpected events took place. 
 
 (work in progress)
