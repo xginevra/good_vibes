@@ -1,3 +1,5 @@
+# Dealing with psoriasis in daily life 
+---
 ## What is Psoriasis?
 
 Psoriasis is a chronic, proliferative and inflammatory disease which mostly affects the skin. Once it appears, most people 
@@ -23,3 +25,4 @@ and the whole process of seeing doctors, not to know if it ends someday can lead
 depressions and other mental diseases.
 
 ## What one can do
+
