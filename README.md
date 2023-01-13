@@ -36,7 +36,6 @@ with appropriate skin cream and to enjoy the hours of the day the sun comes out.
 
 In severe cases, there is also the possibility to do phototherapy or even to take certain systemic drugs which supress the immune system of the patient. This kind of therapy is considered to take place only when the other known methods do not bring the desired outcome - to ease the suffering of the patient. 
 
-
 In order to enhance the life quality on their own, patients must be aware of possible factors which trigger flare-ups and which kind of things are known to ease the symptoms. The most common thing which is known to ease the symptoms is the sun, while the most common flare-up-triggers are:
 + Stress
 + Alcohol
