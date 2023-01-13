@@ -36,4 +36,5 @@ Since psoriasis is a disease which is not to be cured, it will last a life long 
 + Alcohol
 + Smoking
 + Dry, cold weather.
+
 The most common thing which can ease the symptoms is the sun. 
