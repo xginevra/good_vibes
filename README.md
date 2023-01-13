@@ -31,10 +31,16 @@ depressions and other mental diseases.
 
 ## What one can do
 
-Since psoriasis is a disease which is not to be cured, it will last a life long and the patients must be aware of possible factors which trigger flare-ups and which kind of things are known to ease the symptoms. Most common flare-up-triggers are:
+Since psoriasis is a disease which can not be cured, it will last the entire life. All a patient for him- or herself can do is to keep their skin moisturized 
+with appropriate skin cream and to enjoy the hours of the day the sun comes out. Also, a healthy lifestyle can be a great advantage. Exercising on a regular basis as well as consulting a mental health counsellor are most helpful when it comes to healing the skin and the body. 
+
+In severe cases, there is also the possibility to do phototherapy or even to take certain systemic drugs which supress the immune system of the patient. This kind of therapy is considered to take place only when the other known methods do not bring the desired outcome - to ease the suffering of the patient. 
+---
+
+In order to enhance the life quality on their own, patients must be aware of possible factors which trigger flare-ups and which kind of things are known to ease the symptoms. The most common thing which is known to ease the symptoms is the sun, while the most common flare-up-triggers are:
 + Stress
 + Alcohol
 + Smoking
 + Dry, cold weather.
 
-The most common thing which can ease the symptoms is the sun. 
+But also, there is to mention that everyone has their own triggers which are to be found through own experiences. 
