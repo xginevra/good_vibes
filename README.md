@@ -45,4 +45,10 @@ In order to enhance the life quality on their own, patients must be aware of pos
 + Smoking
 + Dry, cold weather.
 
-But also, there is to mention that everyone has their own triggers which are to be found through own experiences. 
+But also, there is to mention that everyone has their own triggers which are to be found through own experiences.
+
+## Modern technical devices and how they can actually help
+
+In order to find triggers which are causing flare-ups or even providing relief, one must try out different things like eating certain things or avoiding them and notice if the symptoms are getting better, worse or are not affected. This process takes a lot of time, considering it must be done for almost everything within the life of one. But there are possibilities to ease the whole process: Apps like Psoriasis Monitor from RPM Healthcare 
+
+(work in progress)
