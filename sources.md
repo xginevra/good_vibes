@@ -11,3 +11,9 @@ https://www.youtube.com/watch?v=8BJyCyEcJSg
 https://pubmed.ncbi.nlm.nih.gov/23837932/
 
 https://www.ucb.com/disease-areas/Psoriasis
+
+https://apps.apple.com/us/app/twill-care-formerly-kopa/id1494286910
+
+https://apps.apple.com/us/app/tangerine/id1468882685
+
+
