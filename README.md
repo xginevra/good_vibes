@@ -56,7 +56,7 @@ To have an idea which groceries could help you or which ones you should avoid, h
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8BJyCyEcJSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+---
 ## Modern technical devices and how they can actually help
 
 There are several apps on the Google Play store which provide the opportunity to track all of the symptoms one notices, from itchy skin to pain in certain joints, but also which stress level one had the other day and if unexpected events took place. Also, in several apps there is the opportunity to connect with other patients who suffer from the same disease and exchange experiences. It can be used like Facebook, which is highly convenient for most of the users. Also, patients do feel much more understood and comfortable when thex can speak with other patients with the same disease. 
