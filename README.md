@@ -1,11 +1,12 @@
 
 # Dealing with psoriasis in daily life 
 ---
+
+It is a disease which affects the whole life. Since I grew up with a father and two siblings facing the world with psoriasis, I wanted to dig a bit deeper and figure out what it means to live with psoriasis. Also, I found some really cool apps to track the development and possible triggers. First, here are some quick facts about it:
+
+![infographic, used from https://www.ucb.com/disease-areas/Psoriasis](Psoriasis_infographic.png)
+
 ## What is Psoriasis?
-
-First, to get you into the topic of what i am talking about today, take a look at the infographic. It describes briefly how the disease affects people around the world.
-
-![infographic](Psoriasis_infographic.png)
 
 Psoriasis is a chronic, proliferative and inflammatory disease which mostly affects the skin. Once it appears, most people 
 discover reddish and scaly spots firstly on their elbows and knees. As the disease develops, the spots grow and spread all over the body. 
