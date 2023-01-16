@@ -59,6 +59,8 @@ To have an idea which groceries could help you or which ones you should avoid, h
 ---
 ## Modern technical devices and how they can actually help
 
-There are several apps on the Google Play store which provide the opportunity to track all of the symptoms one notices, from itchy skin to pain in certain joints, but also which stress level one had the other day and if unexpected events took place. Also, in several apps there is the opportunity to connect with other patients who suffer from the same disease and exchange experiences. It can be used like Facebook, which is highly convenient for most of the users. Also, patients do feel much more understood and comfortable when thex can speak with other patients with the same disease. 
+We are using our phones regularly throughout the day, so why not use it as some kind of tracking machine? As i looked up some quite interesting apps related to psoriasis, i came across several apps which certainly would be helpful to 1. track your symptoms and understand how they develop during a certain period; and 2. help finding habits or stressors that have an impact on the manifestation of the skin disease.
+
+First app I want to mention (because you can not only use it for psoriasis but for all aspects of life) would be Tangerine, which is dedicated to your lifestyle and specificly helps you to improve things you want to be improved. In terms of psoriasis, you can track all your symptoms including skin appearance, stress level, (if needed) anxiety level, also factors that had affects on your daily life, e. g. visits at the doctor and so on. It is an allround talent which is unfortunately only available at the [App Store](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685). It is free to download, but with limited functionality. To unlock the entire experience, there is an abbonement 
 
 (work in progress)
