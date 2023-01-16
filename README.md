@@ -1,3 +1,4 @@
+
 # Dealing with psoriasis in daily life 
 ---
 ## What is Psoriasis?
@@ -47,6 +48,7 @@ In order to enhance the life quality on their own, patients must be aware of pos
 But also, there is to mention that everyone has their own triggers which are to be found through own experiences.
 To have an idea which groceries could help you or which ones you should avoid, here is an interesting video i found on youtube:
 
+{% include youtubePlayer.html id=page.8BJyCyEcJSg %}
 
 ## Modern technical devices and how they can actually help
 
