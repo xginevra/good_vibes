@@ -63,11 +63,15 @@ We are using our phones regularly throughout the day, so why not use it as some 
 
 First app I highly recommend(because you can not only use it for psoriasis but for all aspects of life) would be Tangerine from Bitdreams OU, which is dedicated to your lifestyle and specificly helps you to improve things you want to be improved. In terms of psoriasis, you can track all your symptoms including skin appearance, stress level, (if needed) anxiety level, also factors that had affects on your daily life, e. g. visits at the doctor and so on. Tracking your emotional state and managing stress is vital to ease the symptoms of psoriasis and your mental health in general. Tangerine is an allround talent which is unfortunately only available at the [App Store](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685). It is free to download, but with limited functionality. To unlock the entire experience, there is the option to subscribe annualy for 29.99$/year or monthly 4.99$/month. But it is not necessary to subscribe if you are fine with 5 habits you want to establish or to get rid of, this is the limitation value. 
 
+If you want to keep it more medical (or serious, if you say so), there is another app which i can highly recommend: MyTherapy. It is free and available at the [App Store](https://apps.apple.com/gb/app/mytherapy-meds-pill-reminder/id662170995) and also at the [Google Play Store](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy&referrer=utm_source%3Dwebsite-en). MyTherapy reminds you of all your doctor's appointments as well as of your daily medication. There is the option to track any symptom you notice, no matter if mental or physical. It is a great opportunity to keep track on all your conditions and experiences, it also helps you finding triggers.
+
 Another app which does not only focus on how to get rid of the symptoms, but also on no less important facors such as integrity and mental well-being, is Twill Care (formerly Kopa) from the developer Happify, Inc. They combine the idea of keeping track on your symptoms & triggers with some social-media-aspects:
 
 >> Twill Care (formerly Kopa) is a free app that supports five communities—MS, Pregnancy, Psoriasis, Well-Being, and Women & Midlife. Each community is unique, but all feature the same level of support, guidance, and connection that make it easier for you to take charge of your health and wellness—based on your needs.
 
 Not only that the community can be your "safe place" where you are able to talk to like-minded people who share a lifelong condition with you, but you can also gain knowlegde, e. g. which groceries you could try to avoid from all the experiences which is shared within the community. 
 It is available at the [App Store](https://apps.apple.com/us/app/twill-care-formerly-kopa/id1494286910) as well as at the [Google Play Store](https://play.google.com/store/apps/details?id=com.happify.community.psoriasis&hl=en&gl=US). It is completely free to download and to use. 
+
+
 
 (work in progress)
