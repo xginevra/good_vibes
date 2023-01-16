@@ -2,7 +2,7 @@
 # Dealing with psoriasis in daily life 
 ---
 
-It is a disease which affects the whole life. Since I grew up with a father and two siblings facing the world with psoriasis, I wanted to dig a bit deeper and figure out what it means to live with psoriasis. Also, I found some really cool apps to track the development and possible triggers. First, here are some quick facts about it:
+It is a disease which affects the whole life. Since I grew up with a father and two siblings facing the world with psoriasis, I wanted to dig a bit deeper and figure out what it means to live with psoriasis. Also, I found some really cool apps to track the individual development and possible triggers. First, here are some quick facts about it:
 
 ![infographic, used from https://www.ucb.com/disease-areas/Psoriasis](Psoriasis_infographic.png)
 
@@ -57,13 +57,19 @@ To have an idea which groceries could help you or which ones you should avoid, h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8BJyCyEcJSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-## Modern technical devices and how they can actually help
+## Smartphones and how they can actually help 
 
 We are using our phones regularly throughout the day, so why not use it as some kind of tracking machine? As i looked up some quite interesting apps related to psoriasis, i came across several apps which certainly would be helpful to 1. track your symptoms and understand how they develop during a certain period; and 2. help finding habits or stressors that have an impact on the manifestation of the skin disease.
 
+### Tangerine
+
 First app I highly recommend(because you can not only use it for psoriasis but for all aspects of life) would be Tangerine from Bitdreams OU, which is dedicated to your lifestyle and specificly helps you to improve things you want to be improved. In terms of psoriasis, you can track all your symptoms including skin appearance, stress level, (if needed) anxiety level, also factors that had affects on your daily life, e. g. visits at the doctor and so on. Tracking your emotional state and managing stress is vital to ease the symptoms of psoriasis and your mental health in general. Tangerine is an allround talent which is unfortunately only available at the [App Store](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685). It is free to download, but with limited functionality. To unlock the entire experience, there is the option to subscribe annualy for 29.99$/year or monthly 4.99$/month. But it is not necessary to subscribe if you are fine with 5 habits you want to establish or to get rid of, this is the limitation value. 
 
+### MyTherapy
+
 If you want to keep it more medical (or serious, if you say so), there is another app which i can highly recommend: MyTherapy. It is free and available at the [App Store](https://apps.apple.com/gb/app/mytherapy-meds-pill-reminder/id662170995) and also at the [Google Play Store](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy&referrer=utm_source%3Dwebsite-en). MyTherapy reminds you of all your doctor's appointments as well as of your daily medication. There is the option to track any symptom you notice, no matter if mental or physical. It is a great opportunity to keep track on all your conditions and experiences, it also helps you finding triggers.
+
+### Twill Care
 
 Another app which does not only focus on how to get rid of the symptoms, but also on no less important facors such as integrity and mental well-being, is Twill Care (formerly Kopa) from the developer Happify, Inc. They combine the idea of keeping track on your symptoms & triggers with some social-media-aspects:
 
