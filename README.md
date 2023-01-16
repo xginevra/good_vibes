@@ -47,7 +47,7 @@ In order to enhance the life quality on their own, patients must be aware of pos
 But also, there is to mention that everyone has their own triggers which are to be found through own experiences.
 To have an idea which groceries could help you or which ones you should avoid, here is an interesting video i found on youtube:
 
-
+![https://www.youtube.com/watch?v=8BJyCyEcJSg](YoutubeVideo)
 
 ## Modern technical devices and how they can actually help
 
