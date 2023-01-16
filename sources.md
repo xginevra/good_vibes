@@ -17,3 +17,4 @@ https://apps.apple.com/us/app/twill-care-formerly-kopa/id1494286910
 https://apps.apple.com/us/app/tangerine/id1468882685
 
 
+https://www.mytherapyapp.com/an-app-against-psoriasis
