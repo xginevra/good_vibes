@@ -9,3 +9,5 @@ https://www.healthcentral.com/article/the-top-new-apps-on-the-market-for-psorias
 https://www.youtube.com/watch?v=8BJyCyEcJSg
 
 https://pubmed.ncbi.nlm.nih.gov/23837932/
+
+https://www.ucb.com/disease-areas/Psoriasis
