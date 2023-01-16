@@ -59,7 +59,7 @@ To have an idea which groceries could help you or which ones you should avoid, h
 ---
 ## Smartphones and how they can actually help 
 
-We are using our phones regularly throughout the day, so why not use it as some kind of tracking machine? As i looked up some quite interesting apps related to psoriasis, i came across several apps which certainly would be helpful to 1. track your symptoms and understand how they develop during a certain period; and 2. help finding habits or stressors that have an impact on the manifestation of the skin disease.
+We are using our phones regularly throughout the day, so why not use it as some kind of tracking machine? As i looked up some quite interesting apps related to psoriasis, i came across several apps which certainly would be helpful to 1. track your symptoms and understand how they develop during the period of flareups and remission; and 2. help finding habits or stressors that have an impact on the manifestation of the skin disease.
 
 ### Tangerine
 
