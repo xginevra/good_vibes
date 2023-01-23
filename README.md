@@ -85,7 +85,10 @@ It is available at the [App Store](https://apps.apple.com/us/app/twill-care-form
 All of the mentioned apps above are super easy to set up, also they are providing plenty of possibilities to reach for a healtier and more careful life - this is awesome. In general, there is no reason not to use such kind of apps. But when it comes to psoriasis, i am missing like a table which one can fill out with daily information about what was being consumed during the day and which appearance the skin had that particular day. Finally, some algorithm would show which ingredients or stressors might have some more serious effect on flareups or which ones brought some relief.
 I hoped to find some apps like this but i didn't, so this would be the next thing to do - a psoriasis app which does exactly what we want it to do!
 
-What do you think about it? Feel free to leave a comment below. What kind of apps do you use to track your psoriasis? 
+There is another thing that concerns me: Data security. The amount of data collected for these apps is insane. Who makes sure that our data stays safe?
+What happens if data is leaked? Who can give us the guarantee that our data isn't misused for ads or some shit like that? 
+
+What do you think about it? Feel free to leave a comment below. What kind of apps do you use to track your psoriasis? Are you concerned about your data security?
 I'm looking forward to reading your experiences and suggestions an further apps i might not have found so far.
 
 Yours sincerely,
