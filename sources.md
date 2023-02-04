@@ -18,3 +18,6 @@ https://apps.apple.com/us/app/tangerine/id1468882685
 
 
 https://www.mytherapyapp.com/an-app-against-psoriasis
+
+
+hey, i just had to do a pull req so, u can ignore thiss ;)
