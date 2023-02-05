@@ -6,7 +6,7 @@ It is a disease which affects the whole life. Since I grew up with a father and 
 
 ![infographic, used from https://www.ucb.com/disease-areas/Psoriasis](Psoriasis_infographic.png)
 
-## What is Psoriasis?
+## What is Psoriasis❔
 
 Psoriasis is a chronic, proliferative and inflammatory disease which mostly affects the skin. Once it appears, most people 
 discover reddish and scaly spots firstly on their elbows and knees. As the disease develops, the spots grow and spread all over the body. 
@@ -20,7 +20,7 @@ It is important to mention that the disease is not contagious; it is considered 
 ![This is what it looks like](psoriasis-arms.jpeg)
 
 
-## Living with Psoriasis - is it easy?
+## Is Living With Psoriasis Easy❔
 
 There is more than just the itchy skin with plaque on it, and it is not easy to live with it at all.
 Psoriasis is a very obvious disease, it is difficult to hide it unless one wants to fully cover their body when going out.
