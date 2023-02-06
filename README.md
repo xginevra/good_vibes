@@ -99,8 +99,6 @@ Franzi
 
 [National library of medicine](https://www.ncbi.nlm.nih.gov/books/NBK448194/#article-27961.s2)
 
-[bvdd.de](https://www.bvdd.de/aktuelles-presse/newsroom/pressemitteilungen/details/schuppenflechte-erscheinungsfreiheit-ist-das-neue-behandlungsziel/)
-
 [Wikipedia](https://en.wikipedia.org/wiki/Psoriasis#cite_note-Lancet2015-4)
 
 [healthcentral.com](https://www.healthcentral.com/article/the-top-new-apps-on-the-market-for-psoriasis)
@@ -109,12 +107,14 @@ Franzi
 
 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23837932/)
 
-[UCB](https://www.ucb.com/disease-areas/Psoriasis)
-
 [Appstore - Twillcare](https://apps.apple.com/us/app/twill-care-formerly-kopa/id1494286910)
 
 [Appstore - Tangerine](https://apps.apple.com/us/app/tangerine/id1468882685)
 
 [MyTherapyApp - Website](https://www.mytherapyapp.com/an-app-against-psoriasis)
 
+# Pictures:
 
+[UCB, infographic](https://www.ucb.com/disease-areas/Psoriasis)
+
+[bvdd.de, picture](https://www.bvdd.de/aktuelles-presse/newsroom/pressemitteilungen/details/schuppenflechte-erscheinungsfreiheit-ist-das-neue-behandlungsziel/)
