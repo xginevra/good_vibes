@@ -91,8 +91,7 @@ What happens if data is leaked? Who can give us the guarantee that our data isn'
 What do you think about it? Feel free to leave a comment below. What kind of apps do you use to track your psoriasis? Are you concerned about your data security?
 I'm looking forward to reading your experiences and suggestions an further apps i might not have found so far.
 
-Yours sincerely,
-Franzi 
+
 
 
 # References:
