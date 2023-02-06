@@ -17,7 +17,7 @@ It is important to mention that the disease is not contagious; it is considered 
 >The pathophysiology of psoriasis involves infiltration of the skin by activated T cells which stimulate the proliferation of keratinocytes. This dysregulation in keratinocyte turnover results in the formation of thick plaques. Other associated features include epidermal hyperplasia and parakeratosis. In addition, the epidermal cells fail to secrete lipids which results in flaky and scaly skin, which is typical of psoriasis.
 
 
-![This is what it looks like](psoriasis-arms.jpeg)
+![This is what it looks like, taken from https://www.bvdd.de/aktuelles-presse/newsroom/pressemitteilungen/details/schuppenflechte-erscheinungsfreiheit-ist-das-neue-behandlungsziel/](psoriasis-arms.jpeg)
 
 
 ## Living with Psoriasis - is it easy?
