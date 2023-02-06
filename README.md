@@ -97,24 +97,24 @@ Franzi
 
 # References:
 
-https://www.ncbi.nlm.nih.gov/books/NBK448194/#article-27961.s2
+- [Psoriasis - StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK448194/#article-27961.s2)
 
-https://www.bvdd.de/aktuelles-presse/newsroom/pressemitteilungen/details/schuppenflechte-erscheinungsfreiheit-ist-das-neue-behandlungsziel/
+- [Schuppenflechte: Erscheinungsfreiheit ist neues Behandlungsziel](https://www.bvdd.de/aktuelles-presse/newsroom/pressemitteilungen/details/schuppenflechte-erscheinungsfreiheit-ist-das-neue-behandlungsziel/)
 
-https://en.wikipedia.org/wiki/Psoriasis#cite_note-Lancet2015-4
+- [Wikipedia - Psoriasis](https://en.wikipedia.org/wiki/Psoriasis#cite_note-Lancet2015-4)
 
-https://www.healthcentral.com/article/the-top-new-apps-on-the-market-for-psoriasis
+- [The Best New Apps for Psoriasis](https://www.healthcentral.com/article/the-top-new-apps-on-the-market-for-psoriasis)
 
-https://www.youtube.com/watch?v=8BJyCyEcJSg
+- [8 Foods That Affect Psoriasis (Video)](https://www.youtube.com/watch?v=8BJyCyEcJSg)
 
-https://pubmed.ncbi.nlm.nih.gov/23837932/
+- [Systemic methotrexate therapy for psoriasis](https://pubmed.ncbi.nlm.nih.gov/23837932/)
 
-https://www.ucb.com/disease-areas/Psoriasis
+- [Psoriasis - UCB](https://www.ucb.com/disease-areas/Psoriasis)
 
-https://apps.apple.com/us/app/twill-care-formerly-kopa/id1494286910
+- [Twill Care (formerly Kopa)](https://apps.apple.com/us/app/twill-care-formerly-kopa/id1494286910)
 
-https://apps.apple.com/us/app/tangerine/id1468882685
+- [Tangerine: Self-care & Goals](https://apps.apple.com/us/app/tangerine/id1468882685)
 
-https://www.mytherapyapp.com/an-app-against-psoriasis
+- [An App Against Psoriasis](https://www.mytherapyapp.com/an-app-against-psoriasis)
 
 
